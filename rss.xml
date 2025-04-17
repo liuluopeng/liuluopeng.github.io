@@ -13,4 +13,8 @@
             <guid isPermaLink="true">https://liuluopeng.github.io/minesweeper</guid>
         </item>
     </channel>
+    <follow_challenge>
+        <feedId>135694720697977856</feedId>
+        <userId>132442670901977088</userId>
+    </follow_challenge>
 </rss>
