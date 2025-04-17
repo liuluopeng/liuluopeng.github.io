@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>liuluopeng.github.io</title>
+        <link>https://liuluopeng.github.io</link>
+        <description>Page空间</description>
+        <!-- 文章列表 -->
+        <item>
+            <title>扫雷</title>
+            <link>https://liuluopeng.github.io/minesweeper</link>
+            <description>随机扫雷</description>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <guid isPermaLink="true">https://liuluopeng.github.io/minesweeper</guid>
+        </item>
+    </channel>
+</rss>
